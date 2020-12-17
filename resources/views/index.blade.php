@@ -34,6 +34,12 @@
                             <li>1.2 Logging into Panel</li>
                         </ul>
                     </li>
+                    <li class="list-unstyled my-3" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2"><strong>Section 2 Product Overview</strong>
+                        <ul class="collapse" id="collapse2">
+                            <li>1.1 About This Guide</li>
+                            <li>1.2 Logging into Panel</li>
+                        </ul>
+                    </li>
 
                 </ul>
             </div>
